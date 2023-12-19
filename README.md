@@ -2,8 +2,8 @@
 This is the repo for "The Influence of Toxic Trolling Comments on Anti-vaccine YouTube Videos"
 
 
-*Supplementarl data*  
-- deep_senti_comment.pickle: 
+*Supplemental data*  
+- deep_senti_comment.pickle
   - https://www.dropbox.com/s/bx0rr6g5bnkcobx/deep_senti_comment.pickle?dl=0
 - deep_senti_description.pickle
   - https://www.dropbox.com/scl/fi/uc2eh5ypgvccj3xbh5njd/deep_senti_description.pickle?rlkey=ux3qhhdger6qvk3mbm2u6aseq&dl=0
